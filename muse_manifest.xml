@@ -1,0 +1,17 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1432338837050">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="512432168" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index"/>
+    <file name="museutils.js" crc="212726984" ref="index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="tumblr_nok16jnmkv1rpeiyso1_1280.jpg" crc="492305217" ref="index"/>
+    <file name="10645337_740869552629626_47578111261193480_n.jpg" crc="4054562331" ref="index"/>
+    <file name="10917915_828059787243935_7134243545965151667_o.jpg" crc="378324009" ref="index"/>
+  </folder>
+  <file name="index.html" crc="138706515" mt="1432337300577" redirect="true"/>
+</manifest>
